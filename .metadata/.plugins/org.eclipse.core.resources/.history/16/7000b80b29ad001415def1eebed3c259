@@ -7,20 +7,18 @@ public class QuadraticFormula extends ConsoleProgram {
 	public void run() {
 		
 		boolean a_equals_zero = true;
-		int a = 0;
 		
 		while (a_equals_zero) {
-			a = readInt("Enter a: ");
+			int a = readInt("Enter a: ");
 			if (a!=0)
 				a_equals_zero = false;
-		}
 		int b = readInt("Enter b: ");
 		int c = readInt("Enter c: ");
 		
 		calculate_squareroot(a,b,c);
 	}
 		
-	private void calculate_squareroot(int a, int b, int c) {
+	private void calculate_squareroot(int a,int b, int c) {
 		
 		double discr = b*b-4*a*c;
 		
@@ -31,12 +29,11 @@ public class QuadraticFormula extends ConsoleProgram {
 			println("One root is " + first_root);
 			println("The other is " + second_root);
 		}
-		else if (discr == 0) {
+		else if (discr = 0) {
 			double root = (-b)/2*a;
 			println("There is only one root" + root);
 		}
-		else {
+		else
 			println("There are no roots.");
-		}
 	}
 }

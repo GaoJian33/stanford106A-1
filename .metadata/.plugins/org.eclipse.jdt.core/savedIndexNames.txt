@@ -12,6 +12,7 @@ INDEX VERSION 1.126+/Users/pavelvarukhin/GitHub/stanford106A/.metadata/.plugins/
 3000285004.index
 3302703152.index
 3156470813.index
+3443170566.index
 3244578674.index
 1833648217.index
 3712507179.index
