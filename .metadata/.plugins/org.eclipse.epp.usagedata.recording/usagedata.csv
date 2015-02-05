@@ -99,3 +99,28 @@ started,bundle,org.eclipse.jdt.apt.core,3.3.402.R36_v20110120-1000,"org.eclipse.
 started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.301.R36_v20100727-0110,"org.eclipse.jdt.apt.pluggable.core",1423128717733
 activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1423128717736
 error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1423128718622
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.101.r362_v20101117-0800,"org.eclipse.ltk.core.refactoring",1423128723012
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1423128731520
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1423128787771
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1423128788292
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1423128973921
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1423128977433
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1423128986337
+started,bundle,org.eclipse.ltk.ui.refactoring,3.5.0.v20100526-0800,"org.eclipse.ltk.ui.refactoring",1423128987157
+started,bundle,org.eclipse.compare.core,3.5.101.R36x_v20100929-0800,"org.eclipse.compare.core",1423128987280
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1423128987371
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1423128987480
+executed,command,org.eclipse.ui.ide,3.6.2.M20101201-0800,"org.eclipse.ui.edit.text.openLocalFile",1423128987522
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1423128989920
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1423128990777
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1423128993879
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1423128995865
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1423128995922
+started,bundle,org.eclipse.jdt.junit,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.junit",1423128995983
+started,bundle,org.eclipse.core.variables,3.2.400.v20100505,"org.eclipse.core.variables",1423128996466
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1423128997716
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1423128998433
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1423129011792
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1423129011799
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1423129011938
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1423129015145
