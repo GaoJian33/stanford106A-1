@@ -8,6 +8,7 @@ public class RaiseToPower extends ConsoleProgram {
 		/* Sit in a loop reading bases and exponents and printing out the values
 		 * produced by raising the base to the exponent.
 		 */
+		
 		while (true) {
 			double base  = readDouble("Enter base: ");
 			int exponent = readInt("Enter exponent: ");
