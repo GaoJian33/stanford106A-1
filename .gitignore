@@ -15,3 +15,13 @@
 *.zip
 
 .metadata/.log
+
+.metadata/.log
+
+*.index
+
+.metadata/.plugins/org.eclipse.core.resources/.history/90/8026ea8d10ae001415def1eebed3c259
+
+.metadata/.plugins/org.eclipse.core.resources/.history/c7/604ba40f11ae001415def1eebed3c259
+
+*.zip
