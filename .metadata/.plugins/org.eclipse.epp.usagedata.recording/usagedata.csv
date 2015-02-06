@@ -249,3 +249,28 @@ activated,view,org.eclipse.ui.ide,3.6.2.M20101201-0800,"org.eclipse.ui.views.Pro
 deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1423135697093
 activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1423135714984
 activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1423135715010
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1423135722949
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1423212585269
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1423212587834
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1423226163710
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1423226166059
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1423226208188
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1423226209682
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1423227020875
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1423227021922
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1423227023960
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1423227025638
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1423229443452
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.ClassFileEditor",1423229460451
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.ClassFileEditor",1423229460565
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1423229460570
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1423229462952
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.ClassFileEditor",1423229469190
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1423229469356
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.ClassFileEditor",1423229469356
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1423229473592
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1423229540517
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1423229540748
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1423229540758
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1423229545984
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1423229555954

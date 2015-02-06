@@ -933,3 +933,52 @@ java.lang.NullPointerException
 	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:157)
 	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:242)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.resources 4 2 2015-02-06 17:32:20.510
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.NullPointerException
+	at edu.stanford.cs106.LogChangeListener.getRepository(LogChangeListener.java:165)
+	at edu.stanford.cs106.LogChangeListener.resourceChanged(LogChangeListener.java:133)
+	at org.eclipse.core.internal.events.NotificationManager$2.run(NotificationManager.java:291)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:285)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:149)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:327)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1181)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1984)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY org.eclipse.core.resources 4 2 2015-02-06 17:32:20.747
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.NullPointerException
+	at edu.stanford.cs106.LogChangeListener.getRepository(LogChangeListener.java:165)
+	at edu.stanford.cs106.LogChangeListener.resourceChanged(LogChangeListener.java:133)
+	at org.eclipse.core.internal.events.NotificationManager$2.run(NotificationManager.java:291)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:285)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:149)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:327)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1181)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:45)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.resources 4 2 2015-02-06 17:33:45.479
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.NullPointerException
+	at edu.stanford.cs106.LogChangeListener.getRepository(LogChangeListener.java:165)
+	at edu.stanford.cs106.LogChangeListener.resourceChanged(LogChangeListener.java:133)
+	at org.eclipse.core.internal.events.NotificationManager$2.run(NotificationManager.java:291)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:285)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:149)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:327)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1181)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1984)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:4777)
+	at org.eclipse.jdt.internal.ui.actions.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:106)
+	at org.eclipse.jdt.internal.ui.actions.WorkbenchRunnableAdapter$1.run(WorkbenchRunnableAdapter.java:121)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
